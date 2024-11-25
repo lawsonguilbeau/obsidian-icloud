@@ -1,0 +1,18 @@
+- [ ] Biria Tacos
+- [x] Burgers
+- [ ] [[Chicken Katsu]]
+- [ ] Fish and Chips
+- [ ] Fried Chicken
+- [x] Fried Chicken Sandwiches
+- [ ] Irish Nachos
+- [x] Japanese Croquettes with [[Korean BBQ Sauce]]
+- [ ] Lasagna
+- [x] Monte Cristos
+- [x] Nachos
+- [ ] [[Orange Chicken]]
+- [ ] Pan Pizza
+- [ ] Ramen
+- [ ] Samosas
+- [ ] Spaetzle
+- [ ] [[Steamed Buns]]
+- [ ] Stir Fry with Tempura Shrimp

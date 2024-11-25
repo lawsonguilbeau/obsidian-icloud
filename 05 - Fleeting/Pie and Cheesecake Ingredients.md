@@ -1,0 +1,4 @@
+- [ ] Cornstarch
+- [ ] 2 10oz packages of strawberries
+- [ ] 3 8oz packages of cream cheese
+- [ ] 1 14oz can of sweetened condensed milk
